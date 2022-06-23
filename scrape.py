@@ -60,7 +60,7 @@ class scrap:
                    
                 
                 #create one big string containing the information
-                iTweet += "\n" + "Tweet " + str(i) + ":" + "\n" + "Username: " + username + "\n"  + "Text: " + "\n" +  text + "\n"  + "Hashtags: " + "\n" + hashtext + "\n"
+                iTweet += "\n------------------------------\n" + "Tweet " + str(i) + ":" + "\n" + "Username: " + username + "\n"  + "Text: " + "\n" +  text + "\n"  + "Hashtags: " + "\n" + hashtext + "\n"
 
                 
 
